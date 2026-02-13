@@ -72,22 +72,14 @@
 - **Формат:** Jupyter Notebook
 - **Данные:** три CSV-файла (`sessions_project_history.csv`, `sessions_project_test_part.csv`, `sessions_project_test.csv`)
 
-### Структура репозитория
-ab-test-recommendation-algorithm-analysis/
-├── ab_test_analysis.ipynb          ← основной ноутбук
-├── README.md
-├── requirements.txt
-├── data/                           ← .gitignore (данные не заливаем)
-│   └── .gitkeep
-├── reports/                        ← экспортированные графики и таблицы
-├── src/                            ← (опционально) вынесенные функции
-└── .gitignore
+---
 
 ## Скриншоты / ключевые графики
 
 (добавь сюда 3–4 самых красивых графика из ноутбука)
 
-![Распределение good_session по группам](reports/good_session_distribution.png)  
+![Распределение good_session по группам](<img width="716" height="299" alt="image" src="https://github.com/user-attachments/assets/13b54d8b-caf9-4104-9baf-f5c7f690cf63" />
+)  
 *Распределение доли успешных сессий*
 
 ![Динамика метрики по дням](reports/daily_metric_trend.png)  
