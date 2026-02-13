@@ -65,10 +65,9 @@
 
 - **Язык:** Python 3.10+
 - **Основные библиотеки:**
-  - `pandas`, `numpy`
+  - `pandas`
   - `scipy.stats`, `statsmodels`
-  - `matplotlib`, `seaborn` (визуализации)
-  - `pingouin` / `statannotations` (опционально)
+  - `matplotlib` (визуализация)
 - **Формат:** Jupyter Notebook
 - **Данные:** три CSV-файла (`sessions_project_history.csv`, `sessions_project_test_part.csv`, `sessions_project_test.csv`)
 
