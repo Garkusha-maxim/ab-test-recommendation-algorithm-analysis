@@ -87,6 +87,7 @@
 
 *Проверка баланса групп по регионам*
 
-<img width="449" height="378" alt="image" src="https://github.com/user-attachments/assets/d476080d-62fb-4efa-a828-ab8ad751acca" />
-<img width="449" height="378" alt="image" src="https://github.com/user-attachments/assets/1768c2e6-344a-4985-8a32-2007898800ca" />
+<img width="386" height="359" alt="image" src="https://github.com/user-attachments/assets/18b183ea-f702-4e93-b3bb-eb897b0af6c8" />
+<img width="386" height="359" alt="image" src="https://github.com/user-attachments/assets/a43c5632-1006-4858-b7aa-d01ab931010d" />
+
 
