@@ -80,10 +80,12 @@
 
 <img width="716" height="299" alt="image" src="https://github.com/user-attachments/assets/13b54d8b-caf9-4104-9baf-f5c7f690cf63" />
 
+
 *Проверка баланса групп по устройствам*
 
 <img width="449" height="378" alt="image" src="https://github.com/user-attachments/assets/236f9c6b-81a9-4cca-9107-6463ff3d9bee" />
 <img width="449" height="378" alt="image" src="https://github.com/user-attachments/assets/20d7a4c2-be18-42e7-8cef-acb5af279d61" />
+
 
 *Проверка баланса групп по регионам*
 
