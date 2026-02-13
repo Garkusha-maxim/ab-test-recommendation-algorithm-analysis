@@ -78,8 +78,7 @@
 
 (добавь сюда 3–4 самых красивых графика из ноутбука)
 
-![Распределение good_session по группам](<img width="716" height="299" alt="image" src="https://github.com/user-attachments/assets/13b54d8b-caf9-4104-9baf-f5c7f690cf63" />
-)  
+![Распределение good_session по группам](<img width="716" height="299" alt="image" src="https://github.com/user-attachments/assets/13b54d8b-caf9-4104-9baf-f5c7f690cf63" />)  
 *Распределение доли успешных сессий*
 
 ![Динамика метрики по дням](reports/daily_metric_trend.png)  
