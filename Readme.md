@@ -83,10 +83,10 @@
 *Проверка баланса групп по устройствам*
 
 <img width="449" height="378" alt="image" src="https://github.com/user-attachments/assets/236f9c6b-81a9-4cca-9107-6463ff3d9bee" />
-<img width="442" height="396" alt="image" src="https://github.com/user-attachments/assets/20d7a4c2-be18-42e7-8cef-acb5af279d61" />
+<img width="449" height="378" alt="image" src="https://github.com/user-attachments/assets/20d7a4c2-be18-42e7-8cef-acb5af279d61" />
 
 *Проверка баланса групп по регионам*
 
-<img width="386" height="359" alt="image" src="https://github.com/user-attachments/assets/d476080d-62fb-4efa-a828-ab8ad751acca" />
-<img width="393" height="373" alt="image" src="https://github.com/user-attachments/assets/1768c2e6-344a-4985-8a32-2007898800ca" />
+<img width="449" height="378" alt="image" src="https://github.com/user-attachments/assets/d476080d-62fb-4efa-a828-ab8ad751acca" />
+<img width="449" height="378" alt="image" src="https://github.com/user-attachments/assets/1768c2e6-344a-4985-8a32-2007898800ca" />
 
